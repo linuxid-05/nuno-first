@@ -115,7 +115,7 @@ section {
 #home {
   width: 100%;
   height: 100vh;
-  background: url(/img/computers.png);
+  background: url(../img/computers.png);
   color: white;
   text-align: center;
   text-transform: uppercase;
@@ -228,7 +228,7 @@ i {
 }
 
 #resources {
-  background: url(/img/computers.png) center fixed;
+  background: url(../img/computers.png) center fixed;
   color: white;
 }
 #contacts {
